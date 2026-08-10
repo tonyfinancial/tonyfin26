@@ -1,0 +1,13 @@
+{
+  "name": "Tony Financial",
+  "short_name": "Tony Financial",
+  "description": "Administración de clientes, vehículos, financiamientos y pagos.",
+  "lang": "es",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f9",
+  "theme_color": "#10241f",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
