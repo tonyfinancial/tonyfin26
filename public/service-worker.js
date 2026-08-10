@@ -1,4 +1,4 @@
-const CACHE = 'tony-financial-v1'
+const CACHE = 'tony-financial-v2'
 const APP_SHELL = ['/', '/index.html', '/manifest.webmanifest', '/icon.svg']
 
 self.addEventListener('install', event => {
