@@ -1,0 +1,5 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "buildCommand": "mkdir -p dist && unzip -q deployment-static.zip -d dist",
+  "outputDirectory": "dist"
+}
